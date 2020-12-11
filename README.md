@@ -1,2 +1,2 @@
 # TTS
- text to speach with python
+ text to speech with python
